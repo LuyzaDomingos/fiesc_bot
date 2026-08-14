@@ -2,7 +2,7 @@ name: FIESC & IEL Job Bot
 
 on:
   schedule:
-    - cron: '50 23 * * *'
+    - cron: '0 18 * * *'
 
   workflow_dispatch: 
 
